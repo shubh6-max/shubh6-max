@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubh6-max
 - 👀 I’m interested in ...Data Science project
-- 🌱 I’m currently learning ...Data Scientist
+- 🌱 I’m currently working as ...Data Scientist
 - 💞️ I’m looking to collaborate on ...Data Science,Machine Learning 
 - 📫 How to reach me ...puranikshubham87@outlook.com
 
